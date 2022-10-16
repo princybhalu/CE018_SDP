@@ -1,5 +1,5 @@
 
-
+/*
 //Tutorial-1
 import 'package:flutter/material.dart';
 import 'choose_location.dart';
@@ -36,9 +36,9 @@ void main() => runApp(MaterialApp(
       '/location': (context) => ChooseLocation(),
     }
 ));
+*/
 
 
-/*
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 import 'dart:convert';
@@ -84,4 +84,3 @@ class _LoadingState extends State<Loading> {
   }
 }
 
-*/
